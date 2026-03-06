@@ -1,8 +1,8 @@
-📌 Project Overview
+#📌 BiblioVilla Project Overview
 
 Bibliovilla is a web-based solution developed specifically for Villa Marie Degree College students to bridge the gap between traditional library management and digital convenience. It moves away from manual registers to a real-time system where students can manage their library activities from any device.
 
-The Problem It Solves:
+###The Problem It Solves:
 
 • Wasted Time: Eliminates the need for students to physically visit the library just to check book availability.
 
@@ -10,7 +10,7 @@ The Problem It Solves:
 
 • Resource Access: Centralizes access to previous years' question papers, which were previously difficult for students to find.
 
-🚀 Key Features
+##🚀 Key Features
 
 • Real-time Book Search: Search for books across categories like Mathematics, Statistics, English, and Computer Science.
 
@@ -22,7 +22,7 @@ The Problem It Solves:
 
 • Automated Notifications: Notifications for due dates, new book arrivals, and exam season updates.
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 • Frontend: HTML5, CSS3, JavaScript
 
@@ -34,9 +34,9 @@ The Problem It Solves:
 
 • Development Tools: Visual Studio Code 
 
-💻 System Requirements
+##💻 System Requirements
 
-Hardware 
+###Hardware 
 
   • Processor: Intel Core i5 or equivalent 
   
@@ -44,7 +44,7 @@ Hardware
   
   • Architecture: 64-bit OS
   
-Software
+###Software
 
   • eXAMPP Control Panel (to run Apache and MySQL)
   
@@ -52,7 +52,7 @@ Software
   
   • VS Code (for code editing) 
 
-📂 Database Setup
+##📂 Database Setup
 
 1. Open XAMPP and start the Apache and MySQL modules.
 2. Navigate to phpMyAdmin.
@@ -61,7 +61,7 @@ Software
 
 • Note: Roll numbers should be a minimum of 12 characters.
 
-🔮 Future Enhancements
+##🔮 Future Enhancements
 
 • Implementing a personalized book recommendation engine.
 
@@ -69,5 +69,5 @@ Software
 
 Enhancing the search functionality with better filters and categories.
 
-Developed by: Villa Marie Degree College Students.
+###Developed by: Villa Marie Degree College Students.
 
